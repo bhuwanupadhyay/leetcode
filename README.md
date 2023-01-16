@@ -1,2 +1,2 @@
-# Leetcode Youtube Series
+# Leetcode Java Solutions
 
